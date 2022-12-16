@@ -1,0 +1,18 @@
+.elementor-15 .elementor-element.elementor-element-36dd2e37 .fundraishing-bg-box {
+    background-color: #000000;
+}
+
+.elementor-15 .elementor-element.elementor-element-bd11786 iframe {
+    height: 540px;
+}
+
+.elementor-15 .elementor-element.elementor-element-bd11786>.elementor-widget-container {
+    margin: -80px 0px 0px 0px;
+}
+
+@media(max-width:1024px) {
+    .elementor-15 .elementor-element.elementor-element-bd11786>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 120px 0px 0px 0px;
+    }
+}
